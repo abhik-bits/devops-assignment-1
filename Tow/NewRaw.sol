@@ -3,5 +3,5 @@
 pragma solidity ^0.8.17;
 
 contract HelloWorld {
-    string public greet = "Hello Web3's Decentralized World!";
+    string public greet = "Added from branch";
 }
